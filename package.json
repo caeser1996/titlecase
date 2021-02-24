@@ -1,0 +1,16 @@
+{
+  "name": "@caeser1996/titlecase",
+  "version": "3.0.0",
+  "description": "Make your string Title case",
+  "license": "MIT",
+  "repository": "caeser1996/titlecase",
+  "main": "index.js",
+  "keywords": [
+    "titlecase",
+    "String",
+    "title",
+    "npm",
+    "package",
+    "caeser1996"
+  ]
+}
